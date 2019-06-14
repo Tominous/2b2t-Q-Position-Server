@@ -1,7 +1,8 @@
 import os
 import time
 
-mc_folder = r"C:\Users\bearw\AppData\Roaming\.minecraft"
+#Copy path to your .minecraft folder in place of !here! below
+mc_folder = r"!here!"
 
 latest_log = mc_folder + r"\logs\latest.log"
 
