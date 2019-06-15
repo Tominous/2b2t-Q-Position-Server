@@ -5,7 +5,9 @@ See your 2b2t Queue Position from an Apache web server
 Step 1: Download Apache Lounge and install it following this link https://www.znetlive.com/blog/how-to-install-apache-php-and-mysql-on-windows-10-machine/
 *Note: Only install Apache, don't install PHP and MYSQL
 
-Step 2: Open q.py in a text editor and replace !here! with the path to your .minecraft folder
+Step 2: Download q.py from repository
+
+Step 3: Open q.py in a text editor and replace !here! with the path to your .minecraft folder
 
 ## Running
 To start: Run q.py in the cmd prompt using python
